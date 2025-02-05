@@ -1,5 +1,7 @@
 
-
+// Write a JavaScript function getDayName that takes a number between 1 and 7 
+// as input and returns the corresponding day of the week (1 for Monday, 7 for Sunday).
+//  If the input is not a valid number, the function should throw an error.
 
 
 function getDayNumber(day) {
