@@ -1,1 +1,1 @@
- i am trying out some DSA Questions firstly in javascript.
+ i am trying out some DSA Questions firstly in javascript language.
