@@ -1,1 +1,1 @@
- I have been trying out some DSA Questions firstly in javascript language.
+ I have been trying out seversl DSA Questions firstly in javascript language.
