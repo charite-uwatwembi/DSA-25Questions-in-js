@@ -1,1 +1,1 @@
-These are javascript basic DSA
+These are some javascript basic DSA
