@@ -1,1 +1,1 @@
-These are advanced DSA trials in Java
+These are advanced DSA trials in JavaScript
