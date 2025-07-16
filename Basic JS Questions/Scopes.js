@@ -1,6 +1,6 @@
 // Write a JavaScript function scopeTest that demonstrates the difference between var, let, and const
 //  within different scopes (global, function, and block scope). 
-// The function should be able return an object with the values of the variables declared in different scopes.
+// The function should be able to return an object with the values of the variables declared in different scopes.
 
 function scopeTest() {
 
