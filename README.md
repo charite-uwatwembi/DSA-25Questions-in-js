@@ -1,1 +1,1 @@
- I have been working on different DSA Questions primarly in javascript language and its frameworks.
+ I have been working on various DSA Questions primarly in javascript language and its frameworks.
